@@ -1,0 +1,3 @@
+module math-module
+
+go 1.21.6
